@@ -1,16 +1,7 @@
 # oruphones_assignment
 
-A new Flutter project.
+In this project for image cache, I used cache width and cache height methods
 
-## Getting Started
+For memory management, I built some reusable widgets so that it saved some memory space
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And connected my app with Firebase cloud messaging to send notifications and also implemented infinite scroling.
